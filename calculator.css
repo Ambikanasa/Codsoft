@@ -1,0 +1,25 @@
+.page{
+    background-color: black;
+    text-align: center;
+    background-size: cover;
+    color: white;
+    height: 450px;
+    width: 400px;
+}
+.butt{
+    padding: 20px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+.input{
+    margin: 0px;
+    padding: 5px;
+    width: 230px;
+    border-style: solid;
+    border-color: white;
+    border-radius:3px;
+}
